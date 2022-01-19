@@ -1,0 +1,4 @@
+#Wed Jan 19 15:07:57 CST 2022
+base.0=/Users/darren/work/code/androidProject/native-audio/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

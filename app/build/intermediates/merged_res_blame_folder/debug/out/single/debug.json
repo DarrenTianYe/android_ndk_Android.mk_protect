@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/darren/work/code/androidProject/native-audio/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/darren/work/code/androidProject/native-audio/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/darren/work/code/androidProject/native-audio/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/darren/work/code/androidProject/native-audio/app/src/main/res/drawable/icon.png"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/darren/work/code/androidProject/native-audio/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/darren/work/code/androidProject/native-audio/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "22,20,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "803,753,684",
+                        "endLines": "25,20,19",
+                        "endColumns": "19,48,68",
+                        "endOffsets": "1027,797,748"
+                    },
+                    "to": {
+                        "startLines": "2,6,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,284,333",
+                        "endLines": "5,6,7",
+                        "endColumns": "19,48,68",
+                        "endOffsets": "279,328,397"
+                    }
+                }
+            ]
+        }
+    ]
+}
